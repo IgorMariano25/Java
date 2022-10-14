@@ -7,5 +7,6 @@ public class firstSteps {
         int myThirdNmber = 6;
         int myTotal = myFirstNumber + mySecondNunmber + myThirdNmber;
         int myLastOne = 1000 -myTotal;
+        System.out.println("This is my first number: " + myFirstNumber);
     }
 }
