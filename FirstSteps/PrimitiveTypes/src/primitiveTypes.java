@@ -31,7 +31,7 @@ public class primitiveTypes {
         System.out.println("Byte Minimum value = " + myMinimumByteValue);
         System.out.println("Byte Maximum value = " + myMaximumByteValue);
         // Doing Overflow
-        System.out.println("Busted MAX value for type byte = " + (myMaximumByteValue+ 1));
+        System.out.println("Busted MAX value for type byte = " + (myMaximumByteValue + 1));
         // Doing Underflow
         System.out.println("Busted MIN value for type byte = " + (myMaximumByteValue - 1));
         System.out.println();
