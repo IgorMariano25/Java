@@ -4,6 +4,7 @@ public class primitiveTypes {
 
         int myValue = 1000;
         // Determining the minimum range of the int number
+        // Using Wrapper class
         int myMinimumValue = Integer.MIN_VALUE;
         // Determining the maximum range of int number
         int myMaximumValue = Integer.MAX_VALUE;
