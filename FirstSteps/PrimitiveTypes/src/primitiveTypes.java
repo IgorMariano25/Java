@@ -25,6 +25,7 @@ public class primitiveTypes {
         // Doing Underflow
         System.out.println("Busted MIN value = " + (myMinimumValue - 1));
 
+        System.out.println();
         byte myMinimumByteValue = Byte.MIN_VALUE;
         byte myMaximumByteValue = Byte.MAX_VALUE;
         System.out.println("Byte Minimum value = " + myMinimumByteValue);
