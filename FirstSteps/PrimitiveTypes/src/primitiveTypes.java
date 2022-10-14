@@ -12,6 +12,10 @@ public class primitiveTypes {
         int myMinimumValue = Integer.MIN_VALUE;
         // Determining the maximum range of int number
         // Using Wrapper class
+        /*Java uses the concept of Wrapper class for all eight primitive types,
+        in the case of int we can use Integer, and by doing that it gives us ways
+         to perform operations on an int
+        */
         int myMaximumValue = Integer.MAX_VALUE;
         System.out.println("Integer Minimum value =" + myMinimumValue);
         System.out.println("Integer Maximum value = " + myMaximumValue);
