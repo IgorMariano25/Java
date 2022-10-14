@@ -4,6 +4,7 @@ public class primitiveTypes {
         System.out.println();
 
         int myValue = 1000;
+        System.out.println("myValues is equal to: " + myValue);
         // Determining the minimum range of the int number
         // Using Wrapper class
         /*Java uses the concept of Wrapper class for all eight primitive types,
