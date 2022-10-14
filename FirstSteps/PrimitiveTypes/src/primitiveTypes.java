@@ -19,6 +19,7 @@ public class primitiveTypes {
         int myMaximumValue = Integer.MAX_VALUE;
         System.out.println("Integer Minimum value = " + myMinimumValue);
         System.out.println("Integer Maximum value = " + myMaximumValue);
+        // Doing overflow
         System.out.println("Busted MAX value = " + (myMaximumValue + 1));
     }
 }
