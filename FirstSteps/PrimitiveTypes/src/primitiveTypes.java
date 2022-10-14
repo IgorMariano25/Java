@@ -17,7 +17,7 @@ public class primitiveTypes {
          to perform operations on an int
         */
         int myMaximumValue = Integer.MAX_VALUE;
-        System.out.println("Integer Minimum value =" + myMinimumValue);
+        System.out.println("Integer Minimum value = " + myMinimumValue);
         System.out.println("Integer Maximum value = " + myMaximumValue);
     }
 }
