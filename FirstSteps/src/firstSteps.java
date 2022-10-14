@@ -6,5 +6,6 @@ public class firstSteps {
         int mySecondNunmber = 12;
         int myThirdNmber = 6;
         int myTotal = myFirstNumber + mySecondNunmber + myThirdNmber;
+        int myLastOne = 1000 -myTotal;
     }
 }
