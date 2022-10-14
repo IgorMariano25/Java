@@ -21,5 +21,6 @@ public class primitiveTypes {
         System.out.println("Integer Maximum value = " + myMaximumValue);
         // Doing overflow
         System.out.println("Busted MAX value = " + (myMaximumValue + 1));
+        System.out.println("Busted MIN value = " + (myMinimumValue - 1));
     }
 }
