@@ -1,6 +1,6 @@
 public class primitiveTypes {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Let's Study about Primitive Types!");
 
         int myValue = 1000;
         // Determining the minimum range of the int number
@@ -21,6 +21,7 @@ public class primitiveTypes {
         System.out.println("Integer Maximum value = " + myMaximumValue);
         // Doing overflow
         System.out.println("Busted MAX value = " + (myMaximumValue + 1));
+        // Doing overflow
         System.out.println("Busted MIN value = " + (myMinimumValue - 1));
     }
 }
