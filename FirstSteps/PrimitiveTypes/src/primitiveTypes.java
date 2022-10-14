@@ -7,7 +7,7 @@ public class primitiveTypes {
         int myMinimumValue = Integer.MIN_VALUE;
         // Determinando o intervalo máximo do número int
         int myMaximumValue = Integer.MAX_VALUE;
-        System.out.println("Integer Minimum value =" + myMaximumValue);
+        System.out.println("Integer Minimum value =" + myMinimumValue);
         System.out.println("Integer Maximum value = " + myMaximumValue);
     }
 }
