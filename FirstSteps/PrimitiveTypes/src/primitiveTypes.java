@@ -5,6 +5,10 @@ public class primitiveTypes {
         int myValue = 1000;
         // Determining the minimum range of the int number
         // Using Wrapper class
+        /*Java uses the concept of Wrapper class for all eight primitive types,
+        in the case of int we can use Integer, and by doing that it gives us ways
+         to perform operations on an int
+        */
         int myMinimumValue = Integer.MIN_VALUE;
         // Determining the maximum range of int number
         // Using Wrapper class
