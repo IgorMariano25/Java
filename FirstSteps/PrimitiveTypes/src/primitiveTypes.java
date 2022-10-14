@@ -25,5 +25,6 @@ public class primitiveTypes {
         System.out.println("Busted MIN value = " + (myMinimumValue - 1));
 
         byte myMinimumByteValue = Byte.MIN_VALUE;
+        byte myMaximumByteValue = Byte.MAX_VALUE;
     }
 }
