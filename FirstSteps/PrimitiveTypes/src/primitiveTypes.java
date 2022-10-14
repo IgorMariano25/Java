@@ -3,8 +3,8 @@ public class primitiveTypes {
         System.out.println("Let's Study about Primitive Types!");
         System.out.println();
 
-        int myValue = 1000;
-        System.out.println("myValues is equal to: " + myValue);
+        int myIntValue = 1000;
+        System.out.println("myValues is equal to: " + myIntValue);
         // Determining the minimum range of the int number
         // Using Wrapper class
         /*Java uses the concept of Wrapper class for all eight primitive types,
