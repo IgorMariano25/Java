@@ -7,6 +7,7 @@ public class primitiveTypes {
         // Using Wrapper class
         int myMinimumValue = Integer.MIN_VALUE;
         // Determining the maximum range of int number
+        // Using Wrapper class
         int myMaximumValue = Integer.MAX_VALUE;
         System.out.println("Integer Minimum value =" + myMinimumValue);
         System.out.println("Integer Maximum value = " + myMaximumValue);
