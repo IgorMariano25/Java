@@ -33,5 +33,6 @@ public class primitiveTypes {
 
         System.out.println();
         short myMinimumShortValue = Short.MIN_VALUE;
+        short myMaximumShortValue = Short.MAX_VALUE;
     }
 }
