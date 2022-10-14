@@ -43,6 +43,9 @@ public class primitiveTypes {
         System.out.println("Short Maximum value = " + myMaximumShortValue);
         
         System.out.println();
+        /*Long numbers, must end with L at the end because that's how Java identifies this value as long, 
+        otherwise it will treat this value as an Int because a maximum int value fits in a long variable. 
+        But the opposite event does not occur.*/
         long myLongValue = 100L;
         System.out.println("myLongValue is equal to: " + myLongValue);
         long myMinimumLongValue = Long.MIN_VALUE;
