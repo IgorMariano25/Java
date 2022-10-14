@@ -32,5 +32,6 @@ public class primitiveTypes {
         System.out.println("Byte Minimum value = " + myMaximumByteValue);
 
         System.out.println();
+        short myMinimumShortValue = Short.MIN_VALUE;
     }
 }
