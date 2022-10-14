@@ -44,6 +44,7 @@ public class primitiveTypes {
         
         System.out.println();
         long myLongValue = 100L;
+        System.out.println("myLongValue is equal to: " + myLongValue);
         long myMinimumLongValue = Long.MIN_VALUE;
         long myMaximumLongValue = Long.MAX_VALUE;
         System.out.println("Long Minimum value = " + myMinimumLongValue);
