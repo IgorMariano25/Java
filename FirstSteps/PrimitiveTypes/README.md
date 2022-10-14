@@ -1,0 +1,1 @@
+## In this folder we will learn about primitive data types in java
