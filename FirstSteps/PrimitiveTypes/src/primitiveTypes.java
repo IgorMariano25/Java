@@ -1,6 +1,7 @@
 public class primitiveTypes {
     public static void main(String[] args) throws Exception {
         System.out.println("Let's Study about Primitive Types!");
+        System.out.println();
 
         int myValue = 1000;
         // Determining the minimum range of the int number
