@@ -53,6 +53,7 @@ public class primitiveTypes {
         System.out.println("Long Minimum value = " + myMinimumLongValue);
         System.out.println("Long Maximum value = " + myMaximumLongValue);
 
+        // Java use for default a type of variable as an INT
         int myTotal = (myMinimumIntValue / 2);
 
         byte myNewByteValue =(byte) (myMinimumByteValue / 2);
