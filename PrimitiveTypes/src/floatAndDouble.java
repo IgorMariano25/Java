@@ -10,9 +10,12 @@ public class floatAndDouble {
     
     System.out.println();
     
-    double myMinimunDoubletValue = Double.MIN_VALUE;
-    double myMaximunDoubletValue = Double.MAX_VALUE;
-    System.out.println("The minimun value of a double number is equal to: " +myMinimunDoubletValue);
-    System.out.println("The maximun value of a double number is equal to: " + myMaximunDoubletValue);
+    System.out.println("===============================================");
+    System.out.println(" MINIMUN AND MAXIMUM VALUE OF A DOUBLE NUMBER ");
+    System.out.println("===============================================");
+    double myMinimumDoubletValue = Double.MIN_VALUE;
+    double myMaximumDoubletValue = Double.MAX_VALUE;
+    System.out.println("The minimum value of a double number is equal to: " +myMinimumDoubletValue);
+    System.out.println("The maximum value of a double number is equal to: " + myMaximumDoubletValue);
     }
 }
