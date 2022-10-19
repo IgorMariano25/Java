@@ -4,5 +4,8 @@ public class floatAndDouble {
     float myMaximunFloatValue = Float.MAX_VALUE;
     System.out.println("The minimun value of a float number is equal to: " + myMinimunFloatValue);
     System.out.println("The maximun value of a float number is equal to: " + myMaximunFloatValue);
+
+    double myMinimunDoubletValue = Double.MIN_VALUE;
+    double myMaximunDoubletValue = Double.MAX_VALUE;
     }
 }
