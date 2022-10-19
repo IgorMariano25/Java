@@ -7,5 +7,13 @@
  */
 public class challenge {
     public static void main(String[] args) throws Exception {
+        byte myByteVariable = 115;
+        short myShortVariable = 30_000;
+        int myIntVariable = 127_143_278;
+        long myLongVariable = 50_000L + 10L * (myByteVariable + myShortVariable + myIntVariable);
+
+        System.out.println("The final result is equal to: " + myLongVariable);
+
+        short myShortTotal = (short)(1000 + 10 *(myByteVariable + myShortVariable + myIntVariable));
     }
 }
