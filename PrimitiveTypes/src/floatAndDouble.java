@@ -5,8 +5,8 @@ public class floatAndDouble {
     System.out.println("===============================================");
     float myMinimumFloatValue = Float.MIN_VALUE;
     float myMaximumFloatValue = Float.MAX_VALUE;
-    System.out.println("The minimun value of a float number is equal to: " + myMinimumFloatValue);
-    System.out.println("The maximun value of a float number is equal to: " + myMaximumFloatValue);
+    System.out.println("The minimum value of a float number is equal to: " + myMinimumFloatValue);
+    System.out.println("The maximum value of a float number is equal to: " + myMaximumFloatValue);
     
     System.out.println();
     
