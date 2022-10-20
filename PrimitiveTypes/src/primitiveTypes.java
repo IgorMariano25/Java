@@ -58,6 +58,7 @@ public class primitiveTypes {
         System.out.println(" myTotal is equal to: " + myTotal);
 
         byte myNewByteValue =(byte) (myMinimumByteValue / 2);
+        System.out.println("myNewByteValue is equal to: " + myNewByteValue);
 
         short myNewShortValue = (short) (myMinimumShortValue / 2);
     }
