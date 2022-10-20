@@ -61,5 +61,6 @@ public class primitiveTypes {
         System.out.println("myNewByteValue is equal to: " + myNewByteValue);
 
         short myNewShortValue = (short) (myMinimumShortValue / 2);
+        System.out.println("myNewShortValue is equal to: " + myNewShortValue);
     }
 }
