@@ -55,6 +55,7 @@ public class primitiveTypes {
 
         // Java use for default a type of variable as an INT
         int myTotal = (myMinimumIntValue / 2);
+        System.out.println(" myTotal is equal to: " + myTotal);
 
         byte myNewByteValue =(byte) (myMinimumByteValue / 2);
 
