@@ -15,5 +15,8 @@ public class challenge {
         System.out.println("The final result is equal to: " + myLongVariable);
 
         short myShortTotal = (short)(1000 + 10 *(myByteVariable + myShortVariable + myIntVariable));
+
+        float MyFloatValue = (float)(5.25);
+
     }
 }
