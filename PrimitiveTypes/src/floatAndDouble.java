@@ -22,11 +22,11 @@ public class floatAndDouble {
 
     // TWO WAYS TO USE A DOUBLE VARIABLE
     // First WAY
-    float MyFloatValue = 5.85f;
+    float myFloatValue = 5.85f;
     // SECOND WAY
-    float MyOtherFloatValue = (float)(5.85);
+    float myOtherFloatValue = (float)(5.85);
 
-    double MyDoubleValue = 5d;
+    double myDoubleValue = 5d;
 
     System.out.println("myIntValue is equal to: " + myIntValue);
     }
