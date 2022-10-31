@@ -19,7 +19,7 @@ public class floatAndDouble {
     System.out.println("The maximum value of a double number is equal to: " + myMaximumDoubletValue);
 
     int myIntValue = 5;
-    float MyFloatValue = 5;
-    double MyDoubleValue = 5;
+    float MyFloatValue = 5f;
+    double MyDoubleValue = 5d;
     }
 }
