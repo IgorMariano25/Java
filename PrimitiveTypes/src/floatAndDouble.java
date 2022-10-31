@@ -42,5 +42,7 @@ public class floatAndDouble {
     float myFloatDividedValue = 5.5f / 2f;
 
     double myDoubleDividedValue = 5.5d / 2d;
+
+    System.out.println("myIntDividedValue is equal to: " + myIntDividedValue);
     }
 }
