@@ -21,7 +21,11 @@ public class floatAndDouble {
     int myIntValue = 5;
 
     // TWO WAYS TO USE A DOUBLE VARIABLE
-    float MyFloatValue = 5f;
+    // First WAY
+    float MyFloatValue = 5.85f;
+    // SECOND WAY
+    float MyFloatValue = (float)(5.85);
+
     double MyDoubleValue = 5d;
     }
 }
