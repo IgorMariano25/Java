@@ -18,5 +18,6 @@ public class challenge {
 
         float MyFloatValue = (float)(5.25);
 
+        System.out.println("myShortTotal is equal to: " + myShortTotal);
     }
 }
