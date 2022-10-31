@@ -30,5 +30,6 @@ public class floatAndDouble {
 
     System.out.println("myIntValue is equal to: " + myIntValue);
     System.out.println("myFloatValue is equal to: " + myFloatValue);
+    System.out.println("myOtherFloatValue is equal to: " + myOtherFloatValue);
     }
 }
