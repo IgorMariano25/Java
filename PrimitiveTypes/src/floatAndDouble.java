@@ -34,5 +34,7 @@ public class floatAndDouble {
     System.out.println("myFloatValue is equal to: " + myFloatValue);
     System.out.println("myOtherFloatValue is equal to: " + myOtherFloatValue);
     System.out.println("myDoubleValue is equal to: " + myDoubleValue);
+
+    int myIntDividedValue = 5;
     }
 }
