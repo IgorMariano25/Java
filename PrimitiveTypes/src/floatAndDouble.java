@@ -35,7 +35,7 @@ public class floatAndDouble {
     System.out.println("myOtherFloatValue is equal to: " + myOtherFloatValue);
     System.out.println("myDoubleValue is equal to: " + myDoubleValue);
 
-    int myIntDividedValue = 5;
+    int myIntDividedValue = 5 / 2;
 
     float myFloatDivideValue = 5.85f;
 
