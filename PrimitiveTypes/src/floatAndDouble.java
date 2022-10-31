@@ -39,6 +39,6 @@ public class floatAndDouble {
 
     float myFloatDivideValue = 5.5f / 2f;
 
-    double myDoubleDivideValue = 5d;
+    double myDoubleDividedValue = 5.5d / 2d;
     }
 }
