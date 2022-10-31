@@ -24,7 +24,7 @@ public class floatAndDouble {
     // First WAY
     float MyFloatValue = 5.85f;
     // SECOND WAY
-    float MyFloatValue = (float)(5.85);
+    float MyOtherFloatValue = (float)(5.85);
 
     double MyDoubleValue = 5d;
     }
