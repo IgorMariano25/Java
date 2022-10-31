@@ -17,7 +17,9 @@ public class floatAndDouble {
     double myMaximumDoubletValue = Double.MAX_VALUE;
     System.out.println("The minimum value of a double number is equal to: " + myMinimumDoubletValue);
     System.out.println("The maximum value of a double number is equal to: " + myMaximumDoubletValue);
-
+    
+    System.out.println();
+    
     int myIntValue = 5;
 
     // TWO WAYS TO USE A DOUBLE VARIABLE
