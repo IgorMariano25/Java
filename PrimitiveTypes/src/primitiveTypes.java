@@ -11,20 +11,20 @@ public class primitiveTypes {
         in the case of int we can use Integer, and by doing that it gives us ways
          to perform operations on an int
         */
-        int myMinimumValue = Integer.MIN_VALUE;
+        int myMinimumIntValue = Integer.MIN_VALUE;
         // Determining the maximum range of int number
         // Using Wrapper class
         /*Java uses the concept of Wrapper class for all eight primitive types,
         in the case of int we can use Integer, and by doing that it gives us ways
          to perform operations on an int
         */
-        int myMaximumValue = Integer.MAX_VALUE;
-        System.out.println("Integer Minimum value = " + myMinimumValue);
-        System.out.println("Integer Maximum value = " + myMaximumValue);
+        int myMaximumIntValue = Integer.MAX_VALUE;
+        System.out.println("Integer Minimum value = " + myMinimumIntValue);
+        System.out.println("Integer Maximum value = " + myMaximumIntValue);
         // Doing Overflow
-        System.out.println("Busted MAX value = " + (myMaximumValue + 1));
+        System.out.println("Busted MAX value = " + (myMaximumIntValue + 1));
         // Doing Underflow
-        System.out.println("Busted MIN value = " + (myMinimumValue - 1));
+        System.out.println("Busted MIN value = " + (myMinimumIntValue - 1));
 
         System.out.println();
         byte myMinimumByteValue = Byte.MIN_VALUE;
@@ -52,5 +52,15 @@ public class primitiveTypes {
         long myMaximumLongValue = Long.MAX_VALUE;
         System.out.println("Long Minimum value = " + myMinimumLongValue);
         System.out.println("Long Maximum value = " + myMaximumLongValue);
+
+        // Java use for default a type of variable as an INT
+        int myTotal = (myMinimumIntValue / 2);
+        System.out.println(" myTotal is equal to: " + myTotal);
+
+        byte myNewByteValue =(byte) (myMinimumByteValue / 2);
+        System.out.println("myNewByteValue is equal to: " + myNewByteValue);
+
+        short myNewShortValue = (short) (myMinimumShortValue / 2);
+        System.out.println("myNewShortValue is equal to: " + myNewShortValue);
     }
 }
