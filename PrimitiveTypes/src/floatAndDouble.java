@@ -27,5 +27,7 @@ public class floatAndDouble {
     float MyOtherFloatValue = (float)(5.85);
 
     double MyDoubleValue = 5d;
+
+    System.out.println("myIntValue is equal to: " + myIntValue);
     }
 }
