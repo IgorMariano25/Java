@@ -48,6 +48,7 @@ public class floatAndDouble {
     System.out.println("myDoubleDividedValue is equal to: " + myDoubleDividedValue);
     
     System.out.println();
-    
+
+    int myOtherIntDividedValue = 5 / 3;
     }
 }
