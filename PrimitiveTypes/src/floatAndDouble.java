@@ -49,6 +49,7 @@ public class floatAndDouble {
 
     System.out.println();
 
+    System.out.println("Testing the precision of the type int, float and double");
     int myOtherIntDividedValue = 5 / 3;
 
     float myOtherFloatDividedValue = 5f / 3f;
