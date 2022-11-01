@@ -53,6 +53,6 @@ public class floatAndDouble {
 
     float myOtherFloatDividedValue = 5f / 3f;
 
-
+    double myOtherDoubleDividedValue = 5d / 3d;
     }
 }
