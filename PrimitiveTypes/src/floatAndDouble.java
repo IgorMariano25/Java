@@ -7,9 +7,9 @@ public class floatAndDouble {
     float myMaximumFloatValue = Float.MAX_VALUE;
     System.out.println("The minimum value of a float number is equal to: " + myMinimumFloatValue);
     System.out.println("The maximum value of a float number is equal to: " + myMaximumFloatValue);
-    
+
     System.out.println();
-    
+
     System.out.println("===============================================");
     System.out.println(" MINIMUN AND MAXIMUM VALUE OF A DOUBLE NUMBER ");
     System.out.println("===============================================");
@@ -17,9 +17,9 @@ public class floatAndDouble {
     double myMaximumDoubletValue = Double.MAX_VALUE;
     System.out.println("The minimum value of a double number is equal to: " + myMinimumDoubletValue);
     System.out.println("The maximum value of a double number is equal to: " + myMaximumDoubletValue);
-    
+
     System.out.println();
-    
+
     int myIntValue = 5;
 
     // TWO WAYS TO USE A DOUBLE VARIABLE
@@ -34,9 +34,9 @@ public class floatAndDouble {
     System.out.println("myFloatValue is equal to: " + myFloatValue);
     System.out.println("myOtherFloatValue is equal to: " + myOtherFloatValue);
     System.out.println("myDoubleValue is equal to: " + myDoubleValue);
-    
+
     System.out.println();
-    
+
     int myIntDividedValue = 5 / 2;
 
     float myFloatDividedValue = 5.5f / 2f;
@@ -46,7 +46,7 @@ public class floatAndDouble {
     System.out.println("myIntDividedValue is equal to: " + myIntDividedValue);
     System.out.println("myFloatDividedValue is equal to: " + myFloatDividedValue);
     System.out.println("myDoubleDividedValue is equal to: " + myDoubleDividedValue);
-    
+
     System.out.println();
 
     int myOtherIntDividedValue = 5 / 3;
