@@ -50,5 +50,9 @@ public class floatAndDouble {
     System.out.println();
 
     int myOtherIntDividedValue = 5 / 3;
+
+    float myOtherFloatDividedValue = 5f / 3f;
+
+
     }
 }
