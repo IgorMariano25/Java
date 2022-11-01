@@ -60,5 +60,6 @@ public class floatAndDouble {
 
     double myOtherDoubleDividedValue = 5d / 3d;
     System.out.println("myOtherDoubleDividedValue is equal to: " + myOtherDoubleDividedValue);
+    System.out.println("double type have 16 digits of precision after the decimal point\n");
     }
 }
