@@ -56,6 +56,7 @@ public class floatAndDouble {
 
     float myOtherFloatDividedValue = 5f / 3f;
     System.out.println("myOtherFloatDividedValue is equal to: " + myOtherFloatDividedValue);
+    System.out.println("float type have 7 digits of precision after the decimal point\n");
 
     double myOtherDoubleDividedValue = 5d / 3d;
     System.out.println("myOtherDoubleDividedValue is equal to: " + myOtherDoubleDividedValue);
