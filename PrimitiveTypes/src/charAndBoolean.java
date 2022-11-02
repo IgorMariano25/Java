@@ -13,6 +13,8 @@ example above
 \u --> Indicates that a unicode value will be used
 004 --> The first three numbers indicate in which line the character is in the table
 3 -- > The last number indicate in which column the character is in the table
+
+With that combination we have that result: \u0043 that is equal to the leter C
 */
 
 // https://unicode-table.com/en/ --> Link to unicode web site
