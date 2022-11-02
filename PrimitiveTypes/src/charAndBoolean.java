@@ -6,7 +6,9 @@ public class charAndBoolean {
 2 - If we try to put more than one character we will revive a error like this message: 
     Too many characters in character litera OR THIS Invalid character constant
     */
-        char myCahrVariable = 'C';
-        char myUnicodeChar = '\u0044';
+        char myCharVariable = 'C';
+        char myUnicodeChar = '\u0043';
+        System.out.println("myCharVariable is equal to: " + myCharVariable);
+        System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
     }
 }
