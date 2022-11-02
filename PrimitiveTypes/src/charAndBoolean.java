@@ -29,6 +29,7 @@ With that combination we have that result: \u0043 that is equal to the leter C
  variable is actually tracking
  */
         boolean isCostumerOverTwentyOne = true;
+        String myStringValue = "I'm a string text";
         System.out.println("myCharVariable is equal to: " + myCharVariable);
         System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
         System.out.println("myCopyrightChar is equal to: " + myCopyrightChar);
