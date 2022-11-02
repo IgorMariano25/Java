@@ -29,5 +29,6 @@ With that combination we have that result: \u0043 that is equal to the leter C
         System.out.println("myCopyrightChar is equal to: " + myCopyrightChar);
         System.out.println("myBooleanTrueValue is equal to: " + myBooleanTrueValue);
         System.out.println("myBooleanFalseValue is equal to: " + myBooleanFalseValue);
+        System.out.println("isCostumerOverTwentyOne is equal to: " +isCostumerOverTwentyOne);
     }
 }
