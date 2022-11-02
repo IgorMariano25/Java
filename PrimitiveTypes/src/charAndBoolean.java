@@ -20,6 +20,7 @@ With that combination we have that result: \u0043 that is equal to the leter C
 // https://unicode-table.com/en/ --> Link to unicode web site
         char myCharVariable = 'C';
         char myUnicodeChar = '\u0043';
+        char myCopyrightChar = '\u00A9';
         System.out.println("myCharVariable is equal to: " + myCharVariable);
         System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
     }
