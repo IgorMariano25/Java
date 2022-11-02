@@ -10,6 +10,8 @@ public class charAndBoolean {
 /* We can use Unicode values instead of using a literal character, like the 
 example above
 */
+
+// https://unicode-table.com/en/ --> Link to unicode web site
         char myCharVariable = 'C';
         char myUnicodeChar = '\u0043';
         System.out.println("myCharVariable is equal to: " + myCharVariable);
