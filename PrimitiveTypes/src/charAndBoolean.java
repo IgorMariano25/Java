@@ -36,5 +36,6 @@ With that combination we have that result: \u0043 that is equal to the leter C
         System.out.println("myBooleanTrueValue is equal to: " + myBooleanTrueValue);
         System.out.println("myBooleanFalseValue is equal to: " + myBooleanFalseValue);
         System.out.println("isCostumerOverTwentyOne is equal to: " +isCostumerOverTwentyOne);
+        System.out.println("myStringValue is equal to: " + myStringValue);
     }
 }
