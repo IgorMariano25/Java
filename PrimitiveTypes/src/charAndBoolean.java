@@ -7,5 +7,6 @@ public class charAndBoolean {
     Too many characters in character litera OR THIS Invalid character constant
     */
         char myCahrVariable = 'C';
+        char myUnicodeChar = '\u0044';
     }
 }
