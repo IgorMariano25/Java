@@ -23,5 +23,6 @@ With that combination we have that result: \u0043 that is equal to the leter C
         char myCopyrightChar = '\u00A9';
         System.out.println("myCharVariable is equal to: " + myCharVariable);
         System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
+        System.out.println("myCopyrightChar is equal to: " + myCopyrightChar);
     }
 }
