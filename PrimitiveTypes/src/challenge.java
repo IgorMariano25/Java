@@ -19,6 +19,7 @@ public class challenge {
         float MyFloatValue = (float)(5.25);
 
         System.out.println("myShortTotal is equal to: " + myShortTotal);
+        System.out.println("MyFloatValue is equal to: " + MyFloatValue);
 
         Scanner myPoundVariable = new Scanner(System.in);
         System.out.print("Type here a number in pounds to convert in to kilograms: ");
