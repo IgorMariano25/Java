@@ -25,5 +25,6 @@ With that combination we have that result: \u0043 that is equal to the leter C
         System.out.println("myCharVariable is equal to: " + myCharVariable);
         System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
         System.out.println("myCopyrightChar is equal to: " + myCopyrightChar);
+        System.out.println("myBooleanTrueValue is equal to: " + myBooleanTrueValue);
     }
 }
