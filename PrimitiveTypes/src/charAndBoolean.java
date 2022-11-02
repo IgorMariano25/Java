@@ -9,6 +9,8 @@ public class charAndBoolean {
 
 /* We can use Unicode values instead of using a literal character, like the 
 example above
+
+\u --> Indicates that a unicode value will be used
 */
 
 // https://unicode-table.com/en/ --> Link to unicode web site
