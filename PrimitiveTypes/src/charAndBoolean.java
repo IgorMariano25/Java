@@ -23,6 +23,11 @@ With that combination we have that result: \u0043 that is equal to the leter C
         char myCopyrightChar = '\u00A9';
         boolean myBooleanTrueValue = true;
         boolean myBooleanFalseValue = false;
+
+/*
+ Normally for boolean type we use is + a question to make intuitive what that
+ variable is actually tracking
+ */
         boolean isCostumerOverTwentyOne = true;
         System.out.println("myCharVariable is equal to: " + myCharVariable);
         System.out.println("myUnicodeChar is equal to:  " + myUnicodeChar);
