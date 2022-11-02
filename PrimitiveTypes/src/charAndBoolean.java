@@ -11,6 +11,7 @@ public class charAndBoolean {
 example above
 
 \u --> Indicates that a unicode value will be used
+004 --> The first three numbers indicate in which line the character is in the table
 */
 
 // https://unicode-table.com/en/ --> Link to unicode web site
