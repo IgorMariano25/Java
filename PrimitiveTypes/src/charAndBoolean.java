@@ -38,8 +38,8 @@ With that combination we have that result: \u0043 that is equal to the leter C
         System.out.println("isCostumerOverTwentyOne is equal to: " +isCostumerOverTwentyOne);
 
         String myStringValue = "I'm a string text"; 
-        System.out.println("myStringValue is equal to: " + myStringValue);
+        System.out.println(myStringValue);
         myStringValue += ", and I have 35 characters";
-        System.out.println("myStringValue complete sentence is equal to: " + myStringValue);
+        System.out.println( myStringValue);
     }
 }
