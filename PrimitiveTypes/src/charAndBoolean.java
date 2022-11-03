@@ -43,5 +43,7 @@ With that combination we have that result: \u0043 that is equal to the leter C
         myStringValue += ", and I have 35 characters";
         System.out.println(myStringValue);
         System.out.printf("%c All rigths reserved by Igor Mariano 2022", myCopyrightChar);
+
+        String numberString = "250";
     }
 }
