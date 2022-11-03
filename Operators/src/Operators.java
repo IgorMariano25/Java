@@ -11,5 +11,6 @@ public class Operators {
         */
         System.out.printf("previsouResult =" ,previsouResult);
         result = result * 10;
+        System.out.printf("2 * 10 = %d", result);
     }
 }
