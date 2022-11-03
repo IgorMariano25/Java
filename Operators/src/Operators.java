@@ -5,5 +5,6 @@ public class Operators {
         int previsouResult = result;
         System.out.printf("previsouResult =" ,previsouResult);
         result = result - 1; // 3 - 1 = 2
+        System.out.printf("3 - 1 = %d", result);
     }
 }
