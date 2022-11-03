@@ -1,6 +1,9 @@
 public class Operators {
     public static void main(String[] args) throws Exception {
         int result = 1 + 2; // 1 + 2 = 3
+        System.out.println("====================================================");
+        System.out.println("                  ADDITION OPERATOR                 ");
+        System.out.println("====================================================");
         System.out.printf("1 + 2 = %d\n", result);
         int previsouResult = result;
         System.out.println("previsouResult = " + previsouResult);
