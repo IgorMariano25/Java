@@ -6,6 +6,9 @@ public class Operators {
         System.out.println("====================================================");
         System.out.printf("1 + 2 = %d\n", result);
         int previsouResult = result;
+        System.out.println("====================================================");
+        System.out.println("                 SUBTRATION OPERATOR                ");
+        System.out.println("====================================================");
         System.out.println("previsouResult = " + previsouResult);
         result = result - 1; // 3 - 1 = 2
         System.out.printf("3 - 1 = %d \n", result);
