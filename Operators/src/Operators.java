@@ -6,5 +6,8 @@ public class Operators {
         System.out.printf("previsouResult =" ,previsouResult);
         result = result - 1; // 3 - 1 = 2
         System.out.printf("3 - 1 = %d", result);
+        /*The value of the variable previsouResult didn't change, it continuous 
+        equal 3
+        */
     }
 }
