@@ -53,5 +53,7 @@ The java understand that a variable numberString is a string and for that reason
         String numberString = "250";
         numberString += "50";
         System.out.println(numberString);
+
+        int myIntNumber = 15;
     }
 }
