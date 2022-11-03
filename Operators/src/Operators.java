@@ -15,6 +15,9 @@ public class Operators {
         /*The value of the variable previsouResult didn't change, it continuous 
         equal 3
         */
+        System.out.println("====================================================");
+        System.out.println("                 MULTIPLY OPERATOR                  ");
+        System.out.println("====================================================");
         System.out.println("previsouResult = " + previsouResult);
         result = result * 10;
         System.out.printf("2 * 10 = %d \n", result);
