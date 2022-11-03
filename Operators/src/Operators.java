@@ -10,5 +10,6 @@ public class Operators {
         equal 3
         */
         System.out.printf("previsouResult =" ,previsouResult);
+        result = result * 10;
     }
 }
