@@ -44,6 +44,12 @@ With that combination we have that result: \u0043 that is equal to the leter C
         System.out.println(myStringValue);
         System.out.printf("%c All rigths reserved by Igor Mariano 2022\n", myCopyrightChar);
 
+/*
+The java understand that a variable numberString is a string and for that reason 
+ can't do math operations with that variable. And for this reason when we try do 
+ math operations with string adding the math operator + java just add the two 
+ strings and form a new valeu by the combination of the both strings 
+*/
         String numberString = "250";
         numberString += "50";
         System.out.println(numberString);
