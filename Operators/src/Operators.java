@@ -15,9 +15,10 @@ public class Operators {
         System.out.printf("3 - 1 = %d \n", result);
         System.out.println("previsouResult = " + previsouResult + "\n");
 
-        /*The value of the variable previsouResult didn't change, it continuous 
-        equal 3
-        */
+        /*
+         The value of the variable previsouResult didn't change, it continuous
+         equal 3, becasue I didn't assign the value of the variable result to it
+         */
         System.out.println("====================================================");
         System.out.println("                 MULTIPLY OPERATOR                  ");
         System.out.println("====================================================");
