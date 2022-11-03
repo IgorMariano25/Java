@@ -9,5 +9,6 @@ public class Operators {
         /*The value of the variable previsouResult didn't change, it continuous 
         equal 3
         */
+        System.out.printf("previsouResult =" ,previsouResult);
     }
 }
