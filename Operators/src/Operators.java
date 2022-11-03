@@ -34,5 +34,6 @@ public class Operators {
         result += result / 5;
         System.out.println("20 / 5 = " + result);
         previsouResult = result;
+        System.out.println("previsouResult = " + previsouResult + "\n");
     }
 }
