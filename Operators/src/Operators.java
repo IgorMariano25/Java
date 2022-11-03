@@ -6,13 +6,14 @@ public class Operators {
         System.out.println("====================================================");
         System.out.printf("1 + 2 = %d\n", result);
         int previsouResult = result;
+        System.out.println("previsouResult = " + previsouResult);
 
         System.out.println("====================================================");
         System.out.println("                 SUBTRATION OPERATOR                ");
         System.out.println("====================================================");
-        System.out.println("previsouResult = " + previsouResult);
         result = result - 1; // 3 - 1 = 2
         System.out.printf("3 - 1 = %d \n", result);
+        System.out.println("previsouResult = " + previsouResult);
 
         /*The value of the variable previsouResult didn't change, it continuous 
         equal 3
@@ -20,7 +21,6 @@ public class Operators {
         System.out.println("====================================================");
         System.out.println("                 MULTIPLY OPERATOR                  ");
         System.out.println("====================================================");
-        System.out.println("previsouResult = " + previsouResult);
         result = result * 10;
         System.out.printf("2 * 10 = %d \n", result);
 
