@@ -53,7 +53,10 @@ The java understand that a variable numberString is a string and for that reason
         String numberString = "250";
         numberString += "50";
         System.out.println(numberString);
-
+/*
+ When we try to sum a String value with a int value, java "converts" the value to
+ a string and appends that to a string that you are trying to sum.
+ */
         int myIntNumber = 15;
         numberString += myIntNumber;
         System.out.println(numberString);
