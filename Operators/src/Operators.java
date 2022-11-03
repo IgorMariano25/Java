@@ -25,6 +25,7 @@ public class Operators {
         result = result * 10;
         System.out.println("2 * 10 = " + result + "\n");
         previsouResult = result;
+        System.out.println("previsouResult = " + previsouResult + "\n");
 
         System.out.println("====================================================");
         System.out.println("                 DIVISION OPERATOR                  ");
