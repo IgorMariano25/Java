@@ -19,6 +19,7 @@ public class Operators {
          The value of the variable previsouResult didn't change, it continuous
          equal 3, becasue I didn't assign the value of the variable result to it
          */
+
         System.out.println("====================================================");
         System.out.println("                 MULTIPLY OPERATOR                  ");
         System.out.println("====================================================");
@@ -30,5 +31,6 @@ public class Operators {
         System.out.println("====================================================");
         System.out.println("                 DIVISION OPERATOR                  ");
         System.out.println("====================================================");
+        result += result / 5;
     }
 }
