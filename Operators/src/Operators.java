@@ -32,5 +32,6 @@ public class Operators {
         System.out.println("                 DIVISION OPERATOR                  ");
         System.out.println("====================================================");
         result += result / 5;
+        System.out.println("20 / 5 = " + result);
     }
 }
