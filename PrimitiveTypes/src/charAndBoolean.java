@@ -10,7 +10,8 @@ public class charAndBoolean {
 /* We can use Unicode values instead of using a literal character, like the 
 example above
 
-\u --> Indicates that a unicode value will be used
+OBS: Aded another backslash just ti remove de unicode "error"
+\\u --> Indicates that a unicode value will be used 
 004 --> The first three numbers indicate in which line the character is in the table
 3 -- > The last number indicate in which column the character is in the table
 
