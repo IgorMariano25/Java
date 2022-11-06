@@ -13,7 +13,7 @@ public class Operators {
         System.out.println("====================================================");
         result = result - 1; // 3 - 1 = 2
         System.out.printf("3 - 1 = %d \n", result);
-        System.out.println("previsouResult = " + previsouResult + "\n");
+        System.out.println("previsouResult without changes = " + previsouResult + "\n");
 
         /*
          The value of the variable previsouResult didn't change, it continuous
