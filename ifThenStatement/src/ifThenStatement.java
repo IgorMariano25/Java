@@ -25,5 +25,8 @@ public class ifThenStatement {
         }
 
         boolean isCar = false;
+        if (!isCar){
+            System.out.println("That is correct !");
+        }
     }
 }
