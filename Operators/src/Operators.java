@@ -56,7 +56,8 @@ public class Operators {
         System.out.println("              ABBREVIATING OPERATORS --             ");
         System.out.println("====================================================");
         // result = result - 1;
-        System.out.println("2 + - = " + result);
+        result--; // 2 - 1 = 1
+        System.out.println("2 - 1 = " + result);
         System.out.println("restult-- = " + result);
     }
 }
