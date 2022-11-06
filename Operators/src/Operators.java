@@ -82,7 +82,7 @@ public class Operators {
         System.out.println("              ABBREVIATING OPERATORS *=             ");
         System.out.println("====================================================");
         // result = result * 5
-        // result*-= 5;
+        // result -= 5;
         result *= 5;
         System.out.println("1 * 5 = " + result); // 1 * 5 = 5
         System.out.println("restult*= = " + result + "\n");
@@ -90,5 +90,7 @@ public class Operators {
         System.out.println("====================================================");
         System.out.println("              ABBREVIATING OPERATORS /=             ");
         System.out.println("====================================================");
+        // result = result / 5
+        // result /= 5;
     }
 }
