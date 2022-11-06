@@ -14,5 +14,10 @@ public class ifThenStatement {
         if ((topScore > secondScore) && (topScore < 100)){
             System.out.println("Greater than second top score and less than 100");
         }
+
+        if ((topScore > 90) || (secondScore <= 90)){
+            System.out.println("Either or both conditions are true");
+        }
+
     }
 }
