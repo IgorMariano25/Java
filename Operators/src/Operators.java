@@ -86,5 +86,9 @@ public class Operators {
         result *= 5;
         System.out.println("1 * 5 = " + result); // 1 * 5 = 5
         System.out.println("restult*= = " + result + "\n");
+
+        System.out.println("====================================================");
+        System.out.println("              ABBREVIATING OPERATORS /=             ");
+        System.out.println("====================================================");
     }
 }
