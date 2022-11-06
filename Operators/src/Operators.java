@@ -41,7 +41,7 @@ public class Operators {
         System.out.println("====================================================");
 
         result = result % 3; // The remainder of  ( 4 % 3 )
-        System.out.println("4 % 3 = " + result);
+        System.out.println("4 % 3 = " + result + "\n");
 
         // result = result + 1;
         result++; // 1 + 1 = 2
@@ -50,7 +50,7 @@ public class Operators {
         System.out.println("              ABBREVIATING OPERATORS ++             ");
         System.out.println("====================================================");
         System.out.println("1 + 1 = " + result);
-        System.out.println("restult++ = " + result);
+        System.out.println("restult++ = " + result + "\n" );
 
         System.out.println("====================================================");
         System.out.println("              ABBREVIATING OPERATORS --             ");
@@ -58,7 +58,7 @@ public class Operators {
         // result = result - 1;
         result--; // 2 - 1 = 1
         System.out.println("2 - 1 = " + result);
-        System.out.println("restult-- = " + result);
+        System.out.println("restult-- = " + result + "\n");
 
         System.out.println("====================================================");
         System.out.println("              ABBREVIATING OPERATORS +=             ");
