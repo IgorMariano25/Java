@@ -92,5 +92,7 @@ public class Operators {
         System.out.println("====================================================");
         // result = result / 5
         // result /= 5;
+        System.out.println("5 / 5 = " + result); // 5 / 5 = 1
+        System.out.println("restult/= = " + result + "\n");
     }
 }
