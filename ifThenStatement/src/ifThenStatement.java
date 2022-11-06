@@ -4,5 +4,7 @@ public class ifThenStatement {
         if (isAlien == false){
           System.out.println("It is not a Alien");
         }
+
+        int topScore = 100;
     }
 }
