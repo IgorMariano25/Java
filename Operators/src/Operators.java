@@ -35,5 +35,9 @@ public class Operators {
         System.out.println("20 / 5 = " + result);
         previsouResult = result;
         System.out.println("previsouResult = " + previsouResult + "\n");
+
+        System.out.println("====================================================");
+        System.out.println("              REMAINDER OF THE DIVISION             ");
+        System.out.println("====================================================");
     }
 }
