@@ -23,5 +23,7 @@ public class ifThenStatement {
         if (newValue == 50){
             System.out.println("This is true");
         }
+
+        boolean isCar = false;
     }
 }
