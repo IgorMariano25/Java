@@ -19,5 +19,6 @@ public class ifThenStatement {
             System.out.println("Either or both conditions are true");
         }
 
+        int newValue = 50;
     }
 }
