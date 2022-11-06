@@ -41,6 +41,6 @@ public class Operators {
         System.out.println("====================================================");
 
         result = result % 3; // The remainder of  ( 4 % 3 )
-
+        System.out.println("4 % 3 = " + result);
     }
 }
