@@ -47,7 +47,7 @@ public class Operators {
         result++; // 1 + 1 = 2
 
         System.out.println("====================================================");
-        System.out.println("              ABBREVIATING OPERATORS                ");
+        System.out.println("              ABBREVIATING OPERATORS ++              ");
         System.out.println("====================================================");
         System.out.println("1 + 1 = " + result);
         System.out.println("restult++ = " + result);
