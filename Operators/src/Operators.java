@@ -83,5 +83,6 @@ public class Operators {
         System.out.println("====================================================");
         // result = result * 5
         // result*-= 5;
+        result *= 5;
     }
 }
