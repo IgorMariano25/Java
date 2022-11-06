@@ -6,5 +6,8 @@ public class ifThenStatement {
         }
 
         int topScore = 100;
+        if (topScore == 100) {
+            System.out.println("You got the high score!");
+        }
     }
 }
