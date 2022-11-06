@@ -39,5 +39,8 @@ public class Operators {
         System.out.println("====================================================");
         System.out.println("              REMAINDER OF THE DIVISION             ");
         System.out.println("====================================================");
+
+        result = result % 3; // The remainder of  ( 4 % 3 )
+
     }
 }
