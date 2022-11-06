@@ -74,5 +74,6 @@ public class Operators {
         // result = result - 2
         // result -= 2;
         result -= 2;
+        System.out.println("3 - 2 = " + result + "\n");
     }
 }
