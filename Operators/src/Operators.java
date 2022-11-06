@@ -77,5 +77,9 @@ public class Operators {
         result -= 2;
         System.out.println("3 - 2 = " + result); // 3 - 2 = 1
         System.out.println("restult-= = " + result + "\n");
+
+        System.out.println("====================================================");
+        System.out.println("              ABBREVIATING OPERATORS *=             ");
+        System.out.println("====================================================");
     }
 }
