@@ -40,6 +40,10 @@ public class ifThenStatement {
         System.out.println("Seu bônus salarial foi de: " + bonus);
 
         // Códgio COM operador ternário
+        System.out.println("---------------COM OPERADOR TERNÁRIO---------------");
+        double novoSalario = 1000;
+        double novoBonus = novoSalario * (novoSalario > 1000 ? 0.10 : 0.15);
+        System.out.print("Seu bônus salarial foi de: " + novoBonus);
         boolean wasCar = isCar ? true : false;
     }
 }
