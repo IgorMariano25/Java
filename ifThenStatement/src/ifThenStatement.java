@@ -48,10 +48,18 @@ public class ifThenStatement {
         condição ? valor se for verdareiro : valor se for falso
 
         */
+
+        // Condição = novoSalario
+        // valor se for verdareiro = 0.10
+        // valor se for falso = 0.15
         System.out.println("---------------COM OPERADOR TERNÁRIO---------------");
         double novoSalario = 1000;
         double novoBonus = novoSalario * (novoSalario > 1000 ? 0.10 : 0.15);
         System.out.print("Seu bônus salarial foi de: " + novoBonus);
+
+        // Condição =  isCar
+        // valor se for verdareiro = true
+        // valor se for falso = false
         boolean wasCar = isCar ? true : false;
     }
 }
