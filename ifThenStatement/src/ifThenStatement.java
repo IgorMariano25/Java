@@ -30,6 +30,11 @@ public class ifThenStatement {
         }
 
         // Códgio SEM operador ternário
+        /*
+        Lógica de um operador ternário
+        condição ? valor se for verdareiro : valor se for falso
+
+        */
         System.out.println("---------------SEM OPERADOR TERNÁRIO---------------");
         double salario = 1000;
         double bonus = 0.0;
@@ -40,6 +45,11 @@ public class ifThenStatement {
         System.out.println("Seu bônus salarial foi de: " + bonus);
 
         // Códgio COM operador ternário
+        /*
+        Lógica de um operador ternário
+        condição ? valor se for verdareiro : valor se for falso
+
+        */
         System.out.println("---------------COM OPERADOR TERNÁRIO---------------");
         double novoSalario = 1000;
         double novoBonus = novoSalario * (novoSalario > 1000 ? 0.10 : 0.15);
