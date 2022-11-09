@@ -29,6 +29,8 @@ public class ifThenStatement {
             System.out.println("That is correct !");
         }
 
+        // Códgio SEM operador ternário
+        System.out.println("---------------SEM OPERADOR TERNÁRIO---------------");
         double salario = 1000;
         double bonus = 0.0;
 
