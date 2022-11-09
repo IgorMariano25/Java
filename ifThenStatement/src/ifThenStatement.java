@@ -29,6 +29,13 @@ public class ifThenStatement {
             System.out.println("That is correct !");
         }
 
+        double salario = 1000;
+        double bonus = 0.0;
+
+        if (salario > 1000) { bonus = salario * 0.10; }
+            else { bonus = salario * 0.15;}
+        System.out.println(bonus);
+
         boolean wasCar = isCar ? true : false;
     }
 }
