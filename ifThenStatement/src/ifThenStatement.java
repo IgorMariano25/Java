@@ -37,7 +37,7 @@ public class ifThenStatement {
         // Códgio SEM operador ternário
         if (salario > 1000) { bonus = salario * 0.10; }
             else { bonus = salario * 0.15;}
-        System.out.println(bonus);
+        System.out.println("Seu bônus salarial foi de: " + bonus);
 
         // Códgio COM operador ternário
         boolean wasCar = isCar ? true : false;
