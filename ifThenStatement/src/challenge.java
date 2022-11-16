@@ -42,7 +42,8 @@ public class challenge {
             System.out.println( isTheRemainderEqualTo0 + ", the remainder is equal to: " 
                                 + remainderAccount);
         } else {
-            System.out.println("Yes, the remainder is equal to: " + remainderAccount);
+            System.out.println(isTheRemainderEqualTo0 +", the remainder is equal to: " 
+                                + remainderAccount);
         }
     }
 }
