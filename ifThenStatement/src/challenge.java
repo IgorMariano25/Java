@@ -39,7 +39,8 @@ public class challenge {
         boolean isTheRemainderEqualTo0 = (remainderAccount == 0) ? true : false;
         System.out.println("The remainder is equal to 0 ?");
         if (!isTheRemainderEqualTo0) {
-            System.out.println("No, the remainder is equal to: " + remainderAccount);
+            System.out.println( isTheRemainderEqualTo0 + ", the remainder is equal to: " 
+                                + remainderAccount);
         } else {
             System.out.println("Yes, the remainder is equal to: " + remainderAccount);
         }
