@@ -25,10 +25,6 @@
 public class challenge {
     public static void main(String[] args) throws Exception {
 
-        double myDoubleVariable = 20.00;
-        double otherDoubleVarible = 80.00;
-
-        System.out.println("The result of the account (20.00 + 80.00) * 100 = " +
-                            (myDoubleVariable + otherDoubleVarible) * 100);
+        double myDoubleVariable = 20.00d;
     }
 }
