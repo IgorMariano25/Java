@@ -30,9 +30,8 @@ public class challenge {
         double  account =  (myDoubleVariable + otherDoubleVarible) * 100.00d;
         double remainderAccount = account % 40.00d;
 
-        System.out.println("The result of the account (20.00 + 80.00) * 100 = " + account);
-        System.out.println("The remainder of the operation above is equal to: " + 
-                            remainderAccount);
+        System.out.println("The result of the account (20.00 + 80.00) * 100 = " 
+                            + account);
 
         boolean isTheRemainderEqualTo0 = (remainderAccount == 0) ? true : false;
         System.out.println("The remainder is equal to 0 ?");
