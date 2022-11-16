@@ -28,5 +28,6 @@ public class challenge {
         double myDoubleVariable = 20.00d;
         double otherDoubleVarible = 80.00d;
         double  account =  (myDoubleVariable + otherDoubleVarible) * 100.00d;
+        double remainderAccount = account % 40.00d;
     }
 }
