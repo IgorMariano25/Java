@@ -26,7 +26,7 @@ public class ifThenStatement {
 
         boolean isCar = false;
         if (!isCar){
-            System.out.println("That is correct !");
+            System.out.println("That is correct ! \n");
         }
 
         // Códgio SEM operador ternário
@@ -40,7 +40,7 @@ public class ifThenStatement {
         double bonus = 0.0;
         if (salario > 1000) { bonus = salario * 0.10; }
             else { bonus = salario * 0.15;}
-        System.out.println("Seu bônus salarial foi de: " + bonus);
+        System.out.println("Seu bônus salarial foi de: " + bonus + "\n");
 
         // Códgio COM operador ternário
         /*
@@ -55,7 +55,7 @@ public class ifThenStatement {
         System.out.println("---------------COM OPERADOR TERNÁRIO---------------");
         double novoSalario = 1000;
         double novoBonus = novoSalario * ((novoSalario > 1000) ? 0.10 : 0.15);
-        System.out.print("Seu bônus salarial foi de: " + novoBonus);
+        System.out.println("Seu bônus salarial foi de: " + novoBonus + "\n");
 
         // Condição =  isCar
         // valor se for verdareiro = true
