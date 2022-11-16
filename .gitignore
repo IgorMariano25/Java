@@ -11,3 +11,8 @@
 /ifThenStatement/.vscode
 /ifThenStatement/bin
 /ifThenStatement/lib
+
+# Repositório Primitive Types
+/PrimitiveTypes/.vscode
+/PrimitiveTypes/bin
+/PrimitiveTypes/lib
