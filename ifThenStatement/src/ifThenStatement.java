@@ -61,5 +61,6 @@ public class ifThenStatement {
         // valor se for verdareiro = true
         // valor se for falso = false
         boolean wasCar = isCar ? true : false;
+        System.out.println(wasCar);
     }
 }
