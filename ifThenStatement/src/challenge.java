@@ -33,6 +33,9 @@ public class challenge {
         System.out.println("The result of the account (20.00 + 80.00) * 100 = " 
                             + account);
 
+        System.out.println("The remainder of the operation above is equal to: " 
+                            + remainderAccount);
+
         boolean isTheRemainderEqualTo0 = (remainderAccount == 0) ? true : false;
         System.out.println("The remainder is equal to 0 ?");
         if (!isTheRemainderEqualTo0) {
