@@ -6,6 +6,10 @@ public class ifThenStatement {
         }
 
         boolean imSureThatIsAnAlien = true;
+        if (imSureThatIsAnAlien == true) {
+            System.out.println("It is an Alien !");
+            System.out.println("I'm scared of aliens !");
+        }
 
         int topScore = 100;
         if (topScore == 100) {
