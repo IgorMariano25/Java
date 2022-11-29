@@ -5,6 +5,8 @@ public class ifThenStatement {
           System.out.println("It is not an Alien !");
         }
 
+        boolean imSureThatIsAnAlien = true;
+
         int topScore = 100;
         if (topScore == 100) {
             System.out.println("You got the high score!");
