@@ -1,0 +1,1 @@
+## Este é um repositório especial para códigos feitos com a linguagem de programação java, e aqui colocarei alguns exercícios apenas para mostrar minhas habilidades de codificação e alguns tópicos sobre a linguagem Java e suas funcionalidades.
