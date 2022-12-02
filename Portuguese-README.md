@@ -6,3 +6,4 @@
 🔗 [Primeiros Passos](https://github.com/IgorMariano25/Java/tree/main/FirstSteps)\
 🔗 [Tipos Primitivos](https://github.com/IgorMariano25/Java/tree/main/PrimitiveTypes)\
 🔗 [Operadores](https://github.com/IgorMariano25/Java/tree/main/Operators)\
+🔗 [Declaração if-then](https://github.com/IgorMariano25/Java/tree/main/ifThenStatement)\
