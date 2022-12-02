@@ -26,3 +26,8 @@
 /KeywordsAndExpressions/.vscode
 /KeywordsAndExpressions/bin
 /KeywordsAndExpressions/lib
+
+# Repositório Statments Whitespace and Identation
+/StatementsWhiteSpaceAndIdentation/.vscode
+/StatementsWhiteSpaceAndIdentation/bin
+/StatementsWhiteSpaceAndIdentation/lib
