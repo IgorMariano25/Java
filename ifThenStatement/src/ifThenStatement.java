@@ -69,6 +69,9 @@ public class ifThenStatement {
         // valor se for falso = false
         boolean wasCar = isCar ? true : false;
         System.out.println(wasCar);
-    }
 
+        int ageOfClient = 20;
+        String ageText = (ageOfClient >= 18) ? "Over Eighteen" : "Still a kid";
+        System.out.println("Our client is " + ageText);
+    }
 }
