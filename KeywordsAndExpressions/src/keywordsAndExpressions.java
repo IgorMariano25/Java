@@ -3,5 +3,10 @@ public class keywordsAndExpressions {
         double Kilometers = (100 * 1.609344);
 
         int highScore = 50;
+
+        if (highScore > 25){
+            highScore = 1000 + highScore;
+        }
+
     }
 }
