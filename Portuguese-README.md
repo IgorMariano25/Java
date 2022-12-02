@@ -3,4 +3,6 @@
 ## Para ver a versão em Inglês ***[clique aqui](https://github.com/IgorMariano25/Java/blob/main/README.md)***
 
 ## Vá até a pasta desejada clicando em um desses links
-🔗 [Primeiros Passos](https://github.com/IgorMariano25/Java/tree/main/FirstSteps)
+🔗 [Primeiros Passos](https://github.com/IgorMariano25/Java/tree/main/FirstSteps)\
+🔗 [Tipos Primitivos](https://github.com/IgorMariano25/Java/tree/main/PrimitiveTypes)
+
